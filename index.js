@@ -5,7 +5,7 @@ const handleServer = function(req, res) {
     res.writeHead(200, {
         'Content-type': 'text/html'
     });
-    res.write('Hola Mundo');
+    res.write('Hola Mundo. NodeJS');
     res.end();
 };
 

@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "frameworks",
+  "version": "1.0.0",
+  "description": "Curso de NodeJS",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
